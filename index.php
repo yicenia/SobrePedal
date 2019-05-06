@@ -29,7 +29,10 @@ $row7 = mysqli_fetch_array($result);
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Sobre Pedalcito bonito bien mas bonito mas bonito mas bondddddddddddddddddddddtoddddddddddddddddddddddddddddoo</title>
+
+	<title>Sobre Pedal</title>
+
+
 	<link rel="stylesheet" type="text/css" href="sobre_pedal/css/estilos.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
